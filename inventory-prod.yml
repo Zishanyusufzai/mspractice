@@ -1,3 +1,4 @@
 inventorysupport:
-  email: support@zmart.com
-  phone: 1800-111-222
+  email: support-prod@zmart.com
+  mobile: (prod) 1800-111-222
+  name: prod support person
